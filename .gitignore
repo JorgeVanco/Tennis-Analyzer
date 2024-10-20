@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+
+runs
+tennis_court_det_dataset/
+tennis-ball-detection-6/
+
+*.pt*
